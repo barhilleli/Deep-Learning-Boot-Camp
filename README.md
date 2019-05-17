@@ -1,1 +1,1 @@
-# Deep-Learning-Boot-Cam
+# Deep-Learning-Boot-Camp
